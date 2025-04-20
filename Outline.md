@@ -1,6 +1,6 @@
 # Post-Quantum CRYSTALS-KYBER Encryption for Cloud-native Storage
 
-## Project Outline
+## Project Proposal
 
 This document outlines a comprehensive approach to implementing post-quantum cryptographic solutions for cloud-native storage environments using CRYSTALS-KYBER (ML-KEM) encryption.
 
